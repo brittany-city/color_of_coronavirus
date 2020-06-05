@@ -1,1 +1,1 @@
-# covid_query
+# Color of Coronavirus
