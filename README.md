@@ -24,6 +24,5 @@ In response to the COVID-19 pandemic, the White House and a coalition of leading
 * ['Color of Coronavirus' slides](https://docs.google.com/presentation/d/19UMcZlFU0Hg7gjGVdixKsMY8qCDvSPnBMp1V_U47TN4/edit?usp=sharing): Project Motivation, Hypotheses, Methodology, Findings, and Outlook
 
 ## Contact
-* Email: cityofbrittany@gmail.com
-* Twitter: brittanycity
-* LinkedIn: linkedin.com/in/brittanycity
+* Email: [cityofbrittany@gmail.com](cityofbrittany@gmail.com)
+* LinkedIn: [linkedin.com/in/brittanycity](https://www.linkedin.com/in/brittanycity/)
