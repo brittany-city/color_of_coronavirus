@@ -1,6 +1,6 @@
 # Color of Coronavirus: A Natural Language Processing Approach to Examining Coronavirus Research in African/African American populations
 
-#### Project Status: In Progress
+#### Project Status: Complete
 
 ## Motivation 
 In response to the COVID-19 pandemic, the White House and a coalition of leading research groups have prepared the [COVID-19 Open Research Dataset (CORD-19)](https://www.semanticscholar.org/cord19). The available COVID-19 statistics on race show that minorities have disproportionately contracted and died from coronavirus, making up a larger share of infections than they do of the general population. 
